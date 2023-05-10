@@ -18,3 +18,8 @@ Aplicação: Desenvolver uma Sistema de Aendamento para o laboratorio da faculda
 
 ---------------------------------------------------------------------------------
 Nome do projeto MYROOM
+
+----------------------------------------------------------------------------------
+
+SOBRE:
+Com a aplicação móvel de MYROOM Agenda, você pode facilmente agendar o uso do laboratório de informática de forma conveniente e eficiente. O aplicativo permite que você verifique a disponibilidade do laboratório, selecione a data e hora desejadas, e reserve o espaço com apenas alguns toques na tela.
