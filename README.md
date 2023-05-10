@@ -14,7 +14,7 @@ e estamos empenhados em criar um ambiente acolhedor e respeitoso onde todos poss
 
 ----------------------------------------------------------------------------------
 
-Aplicação: Desenvolver uma Sistema de Aendamento para o laboratorio da faculdade.
+Aplicação: Desenvolver uma Sistema de Agendamento para o laboratorio da faculdade.
 
 ---------------------------------------------------------------------------------
 Nome do projeto MYROOM
