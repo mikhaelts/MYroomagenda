@@ -4,14 +4,11 @@ MIkhael tellys santos de santana 01506424
 Kassio Victor Cordeiro Sales - 01517382
 Anderson de Oliveira Sousa-01505490
 
-
+LInk do prototipo: https://www.figma.com/proto/CdwzxRPZUIiGDB3mV1TgRe/Untitled?type=design&node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A5
 
 
 -----------------------------------------------------------------------------------
 Objetivo: o objetivo comum de promover a aprendizagem, o crescimento e o desenvolvimento pessoal e acadêmico. 
-Nós valorizamos a cooperação, a criatividade e a diversidade,
-e estamos empenhados em criar um ambiente acolhedor e respeitoso onde todos possam contribuir e prosperar juntos.
-
 ----------------------------------------------------------------------------------
 
 Aplicação: Desenvolver uma Sistema de Agendamento para o laboratorio da faculdade.
