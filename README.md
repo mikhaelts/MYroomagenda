@@ -3,7 +3,7 @@ Grupo:
 MIkhael tellys santos de santana 01506424
 Kassio Victor Cordeiro Sales - 01517382
 Anderson de Oliveira Sousa-01505490
-Jose cassio Almeida de souza
+Jose Cassio Almeida de Souza - 01225250
 joão vitor de Souza
 Roberto Aragão da silva Junior
 
