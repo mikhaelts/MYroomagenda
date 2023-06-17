@@ -1,7 +1,7 @@
 # MYroomagenda
 Grupo: 
 MIkhael tellys santos de santana 01506424
-Kassio Victor Cordeiro Sales - 01517382
+ - 01517382
 Anderson de Oliveira Sousa-01505490
 Jose cassio Almeida de souza
 joão vitor de Souza
